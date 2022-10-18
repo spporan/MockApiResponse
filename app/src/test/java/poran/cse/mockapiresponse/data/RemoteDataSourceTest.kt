@@ -103,8 +103,6 @@ class RequestViewModelTest {
 
     }
 
-
-
     @After
     fun tearDown() {
         mockWebServer.shutdown()

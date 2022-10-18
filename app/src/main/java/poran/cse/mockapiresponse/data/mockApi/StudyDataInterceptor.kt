@@ -1,6 +1,5 @@
 package poran.cse.mockapiresponse.data.mockApi
 
-import android.util.Log
 import okhttp3.Interceptor
 import okhttp3.MediaType.Companion.toMediaTypeOrNull
 import okhttp3.Protocol
